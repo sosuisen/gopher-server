@@ -1,3 +1,5 @@
+これはClaude Codeに作らせたお遊びのプロジェクトです。
+
 # Gopher Server
 
 Node.jsで実装したGopherプロトコルサーバー
