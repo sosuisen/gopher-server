@@ -1,0 +1,21 @@
+{
+  "name": "gopher-server",
+  "version": "1.0.0",
+  "description": "A Gopher protocol server implementation in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "gopher",
+    "server",
+    "protocol",
+    "rfc1436"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

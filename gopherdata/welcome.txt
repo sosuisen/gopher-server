@@ -1,0 +1,18 @@
+Welcome to the Gopher Server!
+=============================
+
+This is a simple Gopher protocol server implemented in Node.js.
+
+Gopher is a protocol for distributing, searching, and retrieving
+documents over the Internet that predates the World Wide Web.
+
+It was created in 1991 at the University of Minnesota and named
+after the school's mascot, the Golden Gopher.
+
+Features of this server:
+- Directory browsing
+- Text file serving
+- Support for various file types
+- Simple and lightweight implementation
+
+Enjoy exploring!

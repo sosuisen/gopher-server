@@ -1,0 +1,27 @@
+Gopher Tutorial
+===============
+
+How to use this Gopher server:
+
+1. Starting the server:
+   node server.js
+
+2. Connecting to the server:
+   - Use a Gopher client (like lynx, gopher, or bombadillo)
+   - Or use telnet: telnet localhost 70
+   - Then type the selector (path) and press Enter
+
+3. Adding content:
+   - Place files in the gopherdata/ directory
+   - Create subdirectories for organization
+   - Text files (.txt) are served as plain text
+   - Directories show as navigable menus
+
+4. File types supported:
+   - Text files (.txt)
+   - HTML files (.html, .htm)
+   - Images (.gif, .jpg, .png)
+   - Archives (.zip, .tar, .gz)
+   - Binary files (.bin, .exe)
+
+Happy Gophering!

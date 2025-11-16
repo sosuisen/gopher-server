@@ -1,0 +1,18 @@
+About Gopher Protocol
+======================
+
+The Gopher protocol was designed to distribute, search, and
+retrieve documents over the Internet. It was superseded by
+the World Wide Web in the mid-1990s.
+
+Key Features:
+- Simple menu-based navigation
+- Text-focused content delivery
+- Lightweight protocol
+- Hierarchical organization
+
+RFC 1436 defines the Gopher protocol specification.
+
+This server implements the core functionality of the Gopher
+protocol, allowing you to serve files and directories through
+the classic Gopher interface.
